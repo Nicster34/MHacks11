@@ -1,2 +1,2 @@
-# Our ideas suck we need to fire Alex and get a new ideas guy
+# MHacks 11 Code
 Code Repostitory for MHacks 11
